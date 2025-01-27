@@ -29,22 +29,35 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
+
+
 App: Spotify
     Personalized playlists and recommendations
     Offline playback for downloaded music
+    
+    
 App: Google Maps
     Offline Maps without internet
     Most fuel efficiency route
+    
+    
 App: Gmail
     Quick response suggestions based on message context
     Scheduling when email to be sent
+    
+    
 Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+
+
 App: Real Time Financial Tracker
+
+
 Function: Can connects to your bank accounts to previde real time updates on credit card debt and saving account balance. Main features include secure bank synchronization, spending categorization, bill reminders, and financial goal tracking. 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
     Trying to find the "Adjust Editor Options" in Xcode
 ## License
 
